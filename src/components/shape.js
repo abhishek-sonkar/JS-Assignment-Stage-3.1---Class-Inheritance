@@ -5,7 +5,7 @@ class Shape {
     drawShape() {   
         console.log("Shape is drawn");
     }
-    claculateArea() {
+    calculateArea() {
         console.log ("Area of shape is calculated");
     }
 }
