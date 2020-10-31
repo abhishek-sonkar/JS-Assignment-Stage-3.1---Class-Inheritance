@@ -1,5 +1,5 @@
 const Shape = require('./shape');
-class Circle {
+export default class Circle extends Shape {
     constructor(){
         super();
     }
